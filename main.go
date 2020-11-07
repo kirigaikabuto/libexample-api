@@ -5,7 +5,8 @@ import (
 	"github.com/kirigaikabuto/libexample"
 )
 
-func main(){
+func main() {
 	ask := libexample.Output()
-	fmt.Println(ask)
+
+	fmt.Println(ask, "sdsd")
 }
